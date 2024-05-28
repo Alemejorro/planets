@@ -1,4 +1,9 @@
 Frio y sego,pero todo tiene mi color favorito.
 las dos lunas pueden causar problemas en el hombre lobo.
+<<<<<<< HEAD
 a la momia le gustaria por la falta de humedad.
 
+=======
+A la momia le gustaria por la falta de humedad.
+Ultimo cambio
+>>>>>>> 6c87729df7d778f4ed876696242d3ba80defddad
